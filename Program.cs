@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("changes");
+            Console.WriteLine("in branch 1");
         }
     }
 }
